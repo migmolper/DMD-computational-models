@@ -6,7 +6,7 @@ ITEM: BOX BOUNDS pp pp pp
 -14.99448915 14.99448915
 -14.99448915 14.99448915
 -11.96368645 11.96368645
-ITEM: ATOMS type x y z Stdvq Molarfraction chemicalmultp thermalmultp chemicalmultpbcc thermalmultpbcc
+ITEM: ATOMS type x y z stdvq molarfraction chemicalmultp thermalmultp chemicalmultpbcc thermalmultpbcc
 1 -12.9468832164 -14.0431972536 -9.57094916 0.01 1.0 1.0 38.6817305917 0.0 0.0
 1 -11.0442994236 -14.0431972536 -11.96368645 0.01 1.0 1.0 38.6817305917 0.0 0.0
 1 -12.9468832164 -9.9479853864 -11.96368645 0.01 1.0 1.0 38.6817305917 0.0 0.0
